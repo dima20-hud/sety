@@ -3,9 +3,9 @@
   <head>
 <title>Шиншиломания</title>
    <meta charset = "UTF-8">
-   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<link rel="stylesheet" type="text/css" href="style.css">
 <div id="b1">
 </div>
 <div id="b2">
