@@ -1,5 +1,5 @@
- #b1 { background: #ca92b7;height: 190px;width: 1200px;}
-#b2 float: left;background-image: unnamed.jpg;height: 300px;width: 250px;font-weight: 700;}
-#b3 float: left;background-image: images.jpg;height: 200px;width: 250px;font-weight: 700;}
+#b1 { background: #ca92b7;height: 190px;width: 1200px;}
+#b2 {float: left;background-image: unnamed.jpg;height: 300px;width: 250px;font-weight: 700;}
+#b3 {float: left;background-image: images.jpg;height: 200px;width: 250px;font-weight: 700;}
 #b4 {float: left;background-image: url(img.jpg);height: 500px;width: 860px;}
 #b5 {background: #bd9da0;width: 1200px;display: inline-block;}
