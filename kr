@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+<title>Шиншиломания</title>
+   <meta charset = "UTF-8">
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="b1">
+</div>
+<div id="b2">
+    </div>
+<div id="b3">
+      </div> 
+<div id = "b4">  
+</div> 
+<div id = "b5">
+  &copy; Римбул Дмитро
+</div>
+</body>
+</html>
