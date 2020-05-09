@@ -3,4 +3,4 @@
 #b2 {float: left;background-image: url(images.jpg);height: 400px;width: 190px;font-weight: 700;}
 #b3 {float: left;background-image: url(unnamed.jpg);height: 500px;width: 990px;}
 #b5 {background: #bd9da0;width: 1195px;display: inline-block;}
-div {border:solid 3px;height: 190px ;border-color:black; margin:5px ;padding: 10px;text-align: center;}
+div {border:solid 3px;height: 190px ;border-color:black; margin:2px ;padding: 10px;text-align: center;font-style: times new roman;}
